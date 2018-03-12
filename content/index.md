@@ -50,6 +50,11 @@
 
 待公布。
 
+### 特別講座
+
+- [<i class="fa fa-globe fa-fw"/>Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London, UK
+- [<i class="fa fa-globe fa-fw"/>Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
+
 ## 報名方法與時間
 
 請參考[報名資訊頁](/register.html)與[行事曆](/timeline.html)。
@@ -66,7 +71,7 @@
 ## 課程委員
 
 - 陳恭 Kung Chen, 政治大學資訊科學系
-- 莊庭瑞 Tyng-Ruey Chuang, 中央研究院資訊科學研究所、台灣大學資訊管理學系
+- 莊庭瑞 Tyng-Ruey Chuang, 中央研究院資訊科學研究所
 - 穆信成 Shin-Cheng Mu, 中央研究院資訊科學研究所、台灣大學資訊管理學系
 - 蔡益坤 Yih-Kuen Tsay, 台灣大學資訊管理學系
 - 王柏堯 Bow-Yaw Wang, 中央研究院資訊科學研究所
@@ -76,6 +81,7 @@
 ## 課務統籌
 
 - 張少娟 Shao-Chuan Chang, 中央研究院資訊科學研究所
+- 韓愷真 Kai-Jan Han, 中央研究院資訊科學研究所
 
 ## 聯絡資訊
 

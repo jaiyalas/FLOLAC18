@@ -2,3 +2,5 @@
 .stack-work/*
 _site/*
 _cache/*
+
+\.DS_Store
