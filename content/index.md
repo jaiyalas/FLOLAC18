@@ -75,7 +75,7 @@
 - 穆信成 Shin-Cheng Mu, 中央研究院資訊科學研究所、台灣大學資訊管理學系
 - 蔡益坤 Yih-Kuen Tsay, 台灣大學資訊管理學系
 - 王柏堯 Bow-Yaw Wang, 中央研究院資訊科學研究所
-- 陳亮廷 Liang-Ting Chen, 美國夏威夷大學馬諾阿分校資訊與電腦科學系
+- 陳亮廷 Liang-Ting Chen, 英國斯旺西大學電腦科學系
 - 柯向上 Hsiang-Shang Ko, 日本国立情報学研究所
 
 ## 課務統籌
