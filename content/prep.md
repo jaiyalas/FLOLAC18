@@ -7,11 +7,11 @@ author: Jaiyalas
 
 本課程將會使用 GHC，請同學務必先行安裝。如果時間允許，也建議有興趣的同學先行預習 Haskell 程式設計。
 
-GHC 安裝方式請參考 [real world haskell 的第一章](http://book.realworldhaskell.org/read/getting-started.html)(英文)。
+GHC 安裝方式請參考 [Real World Haskell 第一章](http://book.realworldhaskell.org/read/getting-started.html)(英文)。
 
-### 課前閱讀
+### 課前準備
 
-強烈建議同學們在課前預習 [Haskell趣學指南](https://learnyoua.haskell.sg/content/zh-tw/) (原文版：[Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)) 這本書的**前四章**。
+建議同學們在課前預習並操作 [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)) **前四章**。
 
 <!--
 
