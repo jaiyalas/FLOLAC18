@@ -1,18 +1,50 @@
 ---
 title: 課前準備
-author: Jaiyalas
+author: Jaiyalas & Liang-Ting
 ---
 
 ## 課前準備
 
-本課程將會使用 GHC，請同學務必先行安裝。如果時間允許，也建議有興趣的同學先行預習 Haskell 程式設計。
+本課程將使用 Glasgow Haskell Compiler (GHC)，請同學務必先行安裝。
 
-GHC 安裝方式請參考 [Real World Haskell 第一章](http://book.realworldhaskell.org/read/getting-started.html)(英文)。
+安裝方式請參考 [Haskell.org](https://www.haskell.org) 網站內容，依作業系統下載相對應 Haskell Platform，或由套件管理軟體（如 brew, apt）安裝。
 
-### 課前準備
+### 課前閱讀
 
-建議同學們在課前預習並操作 [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)) **前四章**。
+請在課前預習熟讀 [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters) 前四章。
 
+
+### 課前習題
+
+於報名前完成[課前習題](/files/prerequisites.pdf)上傳至 [Gist](https://gist.github.com)，非程式部分請寫於註解之中。
+
+報名時請附上連結供主辦單位審核。
+
+
+
+### 課前必備知識
+
+* 善用網路資源如官方網站 [Haskell.org](https://www.haskell.org),
+  API 搜尋引擎 [Hoogle](https://www.haskell.org/hoogle/),
+  或是 Haskell 套件搜尋 [Hackage](https://hackage.haskell.org)
+* 熟悉 GHCi 基本指令包含
+  * :? 查看 GHCi 所有指令
+  * :q 離開 GHCi
+  * :i 查詢給定名稱的相關訊息
+  * :l 讀取 Haskell 原始檔
+  * :t 檢視函數型別
+  * :m 載入套件
+
+* 熟悉函數呼叫，函數定義，以及了解閱讀材料內提及的函數用途。
+* 了解何謂 referential transparency 
+* 粗淺了解 pattern matching, case expression 以及兩者的差異
+* 以及 let 跟 where 兩關鍵字的作用跟差異
+
+### 推薦參考書籍
+
+* Graham Hutton, [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html). Cambridge University Press, 2016
+* Richard Bird, [Thinking Functionally with Haskell](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/thinking-functionally-haskell). Cambridge University Press, 2014.
+* Richard Bird, [Introduction Functional Programming using Haskell (2nd)](https://www.amazon.co.uk/Introduction-Functional-Programming-Prentice-Hall-Computer/dp/0134843460). Prentice Hall, 1998
 <!--
 
 - Installation
