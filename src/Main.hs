@@ -73,13 +73,21 @@ main = hakyll $ do
             >>= loadAndApplyTemplate "template/header.html"  defaultContext
             >>= loadAndApplyTemplate "template/default.html" (initCtx "Home")
             >>= relativizeUrls
-    match "content/courses.html" $ do
-        route routeStatic2Root'
-        compile $ do
-           getResourceBody
-               >>= loadAndApplyTemplate "template/header.html"  defaultContext
-               >>= loadAndApplyTemplate "template/default.html" (initCtx "courses")
-               >>= relativizeUrls
+    --
+    match "content/courses.md" $ do
+        route $ routeStatic2Root' `composeRoutes` setExtension "html"
+        compile $ customPandocCompiler_simple
+            >>= loadAndApplyTemplate "template/post.html"    defaultContext
+            >>= loadAndApplyTemplate "template/header.html"  defaultContext
+            >>= loadAndApplyTemplate "template/default.html" (initCtx "Home")
+            >>= relativizeUrls
+    -- match "content/courses.html" $ do
+    --     route routeStatic2Root'
+    --     compile $ do
+    --        getResourceBody
+    --            >>= loadAndApplyTemplate "template/header.html"  defaultContext
+    --            >>= loadAndApplyTemplate "template/default.html" (initCtx "courses")
+    --            >>= relativizeUrls
 
     -- match "content/index.html" $ do
     --     route routeStatic2Root'
