@@ -46,14 +46,12 @@ author: Jaiyalas
 
 - 請於 <span class="alert">06/01 (五)</span> 前線上填寫[學生用報名表](https://goo.gl/forms/Ve52ETWPoFjOElAs1)。
    - 報名超額時，將依所填之修課理由篩選。
-- 另請依外校學生報名暑期課程流程於指定時間內至台大暑期課程網選課：
-   - 選課網址：[http://coursemap.aca.ntu.edu.tw/summer/asp/index.php/ext_stu](http://coursemap.aca.ntu.edu.tw/summer/asp/index.php/ext_stu)
-   - 選課時間：<span class="alert">06/05 ~ 06/06</span>
+- 另請依外校學生報名暑期課程流程於指定時間內至台大繳交學分費。
    - 各校學分抵免規定不盡相同。選課前請洽貴校相關單位，確認是否可抵免學分並辦妥相關手續。
 
 ### 旁聽報名
 
-- 請於 <span class="alert">06/01 (五)</span> 前線上填寫[旁聽用報名表](/#)。
+- 請於 <span class="alert">06/08 (五)</span> 前線上填寫[旁聽用報名表](https://goo.gl/9iKNGW)。
    - 報名超額時，將依所填之修課理由篩選。
 
 ### 錄取名單

@@ -7,7 +7,7 @@ title: 課表
 +:=====:+:=====:+:=====:+:=====:+:=====:+
 |   F   |   F   |   L   |   F   |   λ   |
 +-------+-------+-------+-------+-------+
-|   L   |   λ   |   λ   |   L   | *Free*  |
+|   L   |   λ   |   λ   |   L   |   T   |
 +-------+-------+-------+-------+-------+
 
 +-------+-------+-------+-------+-------+
@@ -15,12 +15,12 @@ title: 課表
 +:=====:+:=====:+:=====:+:=====:+:=====:+
 |   π   |   π   |   π   |   π   | **Exam**  |
 +-------+-------+-------+-------+-------+
-|   F   |   L   |   λ   | *Free*  |       |
+|   F   |   L   |   λ   |   T   |       |
 +-------+-------+-------+-------+-------+
 
 - F : [函數編程 Functional programming](/courses/Funct.html)
 - L : [邏輯 Logic](/courses/Logic.html)
 - λ : [λ 演算與型別 λ-calculus and types](/courses/Lambda.html)
 - π : [並行計算模型與訊程型別 Models of concurrent computation and session types](/courses/Pi.html)
-- *Free* : 彈性課程
-- **Exam** : 總測驗
+- T : Tutorial
+- **Exam** : 期末測驗
