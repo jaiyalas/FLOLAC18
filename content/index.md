@@ -62,7 +62,7 @@
 - L : [邏輯 Logic](/courses/Logic.html)
 - λ : [λ 演算與型別 λ-calculus and types](/courses/Lambda.html)
 - π : [並行計算模型與訊程型別 Models of concurrent computation and session types](/courses/Pi.html)
-- T : Tutorial
+- T : Talk & Tutorial
 - **Exam** : 期末測驗
 
 ## 報名方法與時間
