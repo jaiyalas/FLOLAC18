@@ -8,7 +8,10 @@ title: 邏輯 (Logic)
 
 ## 大綱
 
-+ *待公布*
++ Propositional logic and natural deduction
++ Semantics of propositional logic
++ First-order logic
++ Curry–Howard correspondence and dependently typed programming
 
 ## 課程資源
 

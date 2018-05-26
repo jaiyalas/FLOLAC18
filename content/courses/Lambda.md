@@ -8,7 +8,10 @@ title: λ 演算與型別 (λ-calculus and types)
 
 ## 大綱
 
-+ *待公布*
++ Untyped lambda calculus  
++ Simply typed lambda calculus
++ Polymorphic lambda calculus
++ Categorical semantics
 
 ## 課程資源
 
