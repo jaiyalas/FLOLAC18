@@ -8,8 +8,7 @@ title: 函數編程 (Functional programming)
 
 ## 大綱
 
-+ *待公布*
-
-## 課程資源
-
-+ *待公布*
++ wholemeal programming
++ inductive functions and equational reasoning
++ functional program derivation
++ monadic programming & program derivation
