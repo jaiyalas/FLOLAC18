@@ -37,7 +37,7 @@ myFst :: (a, b) -> a
 myFst = undefined
 \end{code}
 
-  \item Define a function \texttt{myEven} which determines if the input is an odd
+  \item Define a function \texttt{myOdd} which determines if the input is an odd
   number or not. Hint: You may use \texttt{mod} (what is this?). 
 \begin{code}
 myOdd :: Int -> Bool
